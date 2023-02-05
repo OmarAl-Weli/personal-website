@@ -1,1 +1,1 @@
-WIP
+Simple resume website created in HTML, CSS, a bit JavaScript, and PHP.
